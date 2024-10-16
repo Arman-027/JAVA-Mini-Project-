@@ -1,12 +1,3 @@
-/*
- * To compile and run this program:
- * 
- * Compile:
- * javac ExpenseTracker.java
- * 
- * Run:
- * java ExpenseTracker
- */
 
  import javax.swing.*;
  import java.awt.*;
